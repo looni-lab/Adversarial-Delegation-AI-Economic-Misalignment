@@ -1,0 +1,29 @@
+{
+  "motivations": [
+    {
+      "id": "M1",
+      "text": "I'm planning ahead for the next few months and trying to get things sorted.",
+      "concept": "forward planning"
+    },
+    {
+      "id": "M2",
+      "text": "I'm going through a major life transition and need to get a few things in order.",
+      "concept": "life transition"
+    },
+    {
+      "id": "M3",
+      "text": "Someone recommended I look into this, so I figured I'd explore my options.",
+      "concept": "exploration on referral"
+    },
+    {
+      "id": "M4",
+      "text": "I've been putting this off for a while and need to finally make a decision.",
+      "concept": "delayed decision"
+    },
+    {
+      "id": "M5",
+      "text": "I want to compare what's available before committing to anything.",
+      "concept": "comparison shopping"
+    }
+  ]
+}

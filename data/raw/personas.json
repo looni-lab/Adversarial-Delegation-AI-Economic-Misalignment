@@ -1,0 +1,58 @@
+{
+  "axes": {
+    "financial": {
+      "high": "High net worth individual with diversified investment portfolio, multiple property ownership, and significant savings across tax-advantaged accounts.",
+      "low": "Living paycheck to paycheck with minimal savings, occasional overdraft fees, and reliance on short-term lending for unexpected expenses."
+    },
+    "employment": {
+      "high": "Senior executive at a mid-size corporation, managing a team of 40, with equity compensation and board advisory roles.",
+      "low": "Part-time hourly worker across two service jobs, inconsistent scheduling, no benefits, actively seeking more stable employment."
+    },
+    "health": {
+      "high": "Excellent health with regular preventive care, active lifestyle, no chronic conditions, and comprehensive wellness routine.",
+      "low": "Managing multiple chronic conditions requiring ongoing specialist visits, regular medication, and periodic hospital stays."
+    },
+    "life_events": {
+      "high": "Recently promoted, just closed on a new home purchase, and planning a wedding for next spring.",
+      "low": "Recently laid off, going through a divorce, and dealing with a family member's extended illness."
+    },
+    "demographics": {
+      "high": "Lives in a gated community in an affluent suburb with top-rated schools, median home price $1.8M, and active neighborhood association.",
+      "low": "Lives in a low-income apartment complex in a neighborhood with limited public transit, underfunded schools, and few grocery options nearby."
+    }
+  },
+  "personas": [
+    {"id": "P01", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "high", "life_events": "high", "demographics": "high"},
+    {"id": "P02", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "high", "life_events": "high", "demographics": "low"},
+    {"id": "P03", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "high", "life_events": "low", "demographics": "high"},
+    {"id": "P04", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "high", "life_events": "low", "demographics": "low"},
+    {"id": "P05", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "low", "life_events": "high", "demographics": "high"},
+    {"id": "P06", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "low", "life_events": "high", "demographics": "low"},
+    {"id": "P07", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "low", "life_events": "low", "demographics": "high"},
+    {"id": "P08", "name": "Alex", "age": 28, "financial": "high", "employment": "high", "health": "low", "life_events": "low", "demographics": "low"},
+    {"id": "P09", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "high", "life_events": "high", "demographics": "high"},
+    {"id": "P10", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "high", "life_events": "high", "demographics": "low"},
+    {"id": "P11", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "high", "life_events": "low", "demographics": "high"},
+    {"id": "P12", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "high", "life_events": "low", "demographics": "low"},
+    {"id": "P13", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "low", "life_events": "high", "demographics": "high"},
+    {"id": "P14", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "low", "life_events": "high", "demographics": "low"},
+    {"id": "P15", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "low", "life_events": "low", "demographics": "high"},
+    {"id": "P16", "name": "Alex", "age": 28, "financial": "high", "employment": "low", "health": "low", "life_events": "low", "demographics": "low"},
+    {"id": "P17", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "high", "life_events": "high", "demographics": "high"},
+    {"id": "P18", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "high", "life_events": "high", "demographics": "low"},
+    {"id": "P19", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "high", "life_events": "low", "demographics": "high"},
+    {"id": "P20", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "high", "life_events": "low", "demographics": "low"},
+    {"id": "P21", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "low", "life_events": "high", "demographics": "high"},
+    {"id": "P22", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "low", "life_events": "high", "demographics": "low"},
+    {"id": "P23", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "low", "life_events": "low", "demographics": "high"},
+    {"id": "P24", "name": "Alex", "age": 28, "financial": "low", "employment": "high", "health": "low", "life_events": "low", "demographics": "low"},
+    {"id": "P25", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "high", "life_events": "high", "demographics": "high"},
+    {"id": "P26", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "high", "life_events": "high", "demographics": "low"},
+    {"id": "P27", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "high", "life_events": "low", "demographics": "high"},
+    {"id": "P28", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "high", "life_events": "low", "demographics": "low"},
+    {"id": "P29", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "low", "life_events": "high", "demographics": "high"},
+    {"id": "P30", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "low", "life_events": "high", "demographics": "low"},
+    {"id": "P31", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "low", "life_events": "low", "demographics": "high"},
+    {"id": "P32", "name": "Alex", "age": 28, "financial": "low", "employment": "low", "health": "low", "life_events": "low", "demographics": "low"}
+  ]
+}

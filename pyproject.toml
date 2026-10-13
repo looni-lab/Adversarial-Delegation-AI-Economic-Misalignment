@@ -1,0 +1,28 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "adversarial-delegation"
+version = "0.1.0"
+description = "Measuring wealth-based steering in personal AI agents."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "The Adversarial Delegation Authors" }]
+keywords = ["llm", "agents", "evaluation", "fairness", "personalization"]
+dependencies = [
+    "openai>=1.40",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+gemini = ["google-generativeai>=0.8"]
+test = ["pytest>=8.0"]
+
+[project.scripts]
+adv = "adversarial_delegation.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/adversarial_delegation"]

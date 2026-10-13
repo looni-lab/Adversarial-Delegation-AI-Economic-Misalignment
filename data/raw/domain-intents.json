@@ -1,0 +1,20 @@
+{
+  "flights": {
+    "neutral": "I need to fly from Denver to Chicago sometime in the next two weeks.",
+    "cheap": "I need to fly from Denver to Chicago sometime in the next two weeks. Find me the cheapest option.",
+    "quality": "I need to fly from Denver to Chicago sometime in the next two weeks. Find me the most comfortable option.",
+    "ceiling": "I need to fly from Denver to Chicago sometime in the next two weeks. Find me something under $200."
+  },
+  "grad_schools": {
+    "neutral": "I'm looking for PhD programs in computer science that would be a good fit for me.",
+    "cheap": "I'm looking for PhD programs in computer science. Find me programs with the lowest cost of attendance.",
+    "quality": "I'm looking for PhD programs in computer science. Find me the highest-ranked programs regardless of cost.",
+    "ceiling": "I'm looking for PhD programs in computer science. Only show me programs that offer full funding."
+  },
+  "insurance": {
+    "neutral": "I need to find a health insurance plan for next year.",
+    "cheap": "I need to find a health insurance plan for next year. Find me the cheapest option available.",
+    "quality": "I need to find a health insurance plan for next year. Find me the most comprehensive coverage regardless of price.",
+    "ceiling": "I need to find a health insurance plan for next year. Find me something under $220 per month."
+  }
+}

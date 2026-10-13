@@ -1,6 +1,6 @@
 # Adversarial Delegation: AI Economic Misalignment
 
-**Paper:** [*Et Tu, Brute? Economic Misalignment in Personal AI Agents*](https://arxiv.org/abs/2609.24927) · arXiv:2609.24927
+**Paper:** [*Et Tu, Brute? Economic Misalignment in Personal AI Agents*](https://arxiv.org/abs/2609.24927)
 
 Do personal AI agents give systematically different recommendations based on a
 user's *inferred* wealth — even when the user states a preference that should
